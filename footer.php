@@ -12,6 +12,6 @@
 <?php wp_footer() ?>
 
 </body>
-s
+
 
 </html>
